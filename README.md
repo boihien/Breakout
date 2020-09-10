@@ -4,7 +4,7 @@ The goal of breakout is to knock out all of the wall particles before the number
 ## Documentation
 https://docs.google.com/document/d/1wCYnDZpyRTbmhAkyOziI0YO2W7OrEtMNg71RNg4xiFU/edit?usp=sharing
 
-### Demo Video
+## Demo Video
 https://www.youtube.com/watch?v=xrwwl_xu_2k&feature=youtu.be
 
 
